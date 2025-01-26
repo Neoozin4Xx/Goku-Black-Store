@@ -1,1 +1,1 @@
-# Goku-Black-Store
+This is simple training creation
